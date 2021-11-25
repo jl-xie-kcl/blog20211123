@@ -30,11 +30,11 @@ Considering Hansard is the archive of speeches and debates, it is also a good re
 ### Search from each House of the Parliament
 On the homepage of Hansard, visitors can see the two major categories of Hansard, the category of House of Commons and that of House of Lords. Visitors can check the sittings, debates, voting results and MPs of each House.
 
-![party-contrast](https://jl-xie-kcl.github.io/blog20211123/illustrations/Hansard/party-contrast.png)
+![party-contrast](https://jl-xie-kcl.github.io/jlxblog/illustrations/Hansard/party-contrast.png)
 
 The records accessed from each House are in chronological order. The latest record comes first.
 
-![chronological](https://jl-xie-kcl.github.io/blog20211123/illustrations/Hansard/chronological.png)
+![chronological](https://jl-xie-kcl.github.io/jlxblog/illustrations/Hansard/chronological.png)
 
 ### Search using the search column
 However, sometimes search from chronological order is not the most convenient approach. On the homepage, there is a search column for more specific research above the links of Houses. After a researcher enters a keyword to search, they can:
@@ -42,7 +42,7 @@ However, sometimes search from chronological order is not the most convenient ap
 - utilise the filter of House and date for receive more accurate results;
 - leverage the bar chart below to observe the frequency of appearance of the keyword in UK Parliament records.
 
-![barchart](https://jl-xie-kcl.github.io/blog20211123/illustrations/Hansard/barchart.png)
+![barchart](https://jl-xie-kcl.github.io/jlxblog/illustrations/Hansard/barchart.png)
 *The frequency of the keyword "pandemic" appearing in UK Parliament records from 25/11/2001 to 25/11/2021.*
 
 When your mouse moves to a bar, you can see the specific frequency of the keyword that appeared on a certain day. However, the user cannot click the bar to check the corresponding result, which is a more direct way. All the results must be checked below the bar chart. 
@@ -50,4 +50,4 @@ When your mouse moves to a bar, you can see the specific frequency of the keywor
 When the keyword is a certain Member, the visitor can see all his/her contributions in the Parliament to observe how his/her points of view changed over time. 
 
 One can also use the "spokenby" function to search a particular speech by a specific member.
-![spokenby](https://jl-xie-kcl.github.io/blog20211123/illustrations/Hansard/spokenby.png)
+![spokenby](https://jl-xie-kcl.github.io/jlxblog/illustrations/Hansard/spokenby.png)
