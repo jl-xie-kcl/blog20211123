@@ -35,7 +35,14 @@ The records accessed from each House are in chronological order, the latest reco
 
 ![chronological](https://jl-xie-kcl.github.io/blog20211123/illustrations/Hansard/chronological.png)
 
-However, sometimes search from chronological order is not the best solution. Above the links of Houses, there is a search column for more specific research. Researchers can 
+However, sometimes search from chronological order is not the most convenient approach. On the homepage, there is a search column for more specific research above the links of Houses. After a research enters a keyword to search, they can:
+
+- utilise the filter of House and date for receive more accurate results;
+- leverage the bar chart below to observe the frequency of appearance of the keyword in UK Parliament records.
+
+![barchart](https://jl-xie-kcl.github.io/blog20211123/illustrations/Hansard/barchart.png)
+*The frequency of the keyword "pandemic" appearing in UK Parliament records from 25/11/2001 to 25/11/2021.*
+
 
 By searching a certain word in the search column, researchers can see how many times a word is mentioned in a certain year.
 
