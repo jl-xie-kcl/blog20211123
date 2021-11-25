@@ -51,3 +51,7 @@ When the keyword is a certain Member, the visitor can see all his/her contributi
 
 One can also use the "spokenby" function to search a particular speech by a specific member.
 ![spokenby](https://jl-xie-kcl.github.io/jlxblog/illustrations/Hansard/spokenby.png)
+
+### Multi-media resources
+
+The recordings or videoes of the debates recorded are not attached on Hansard, but shared on the YouTube channel of UK Parliament https://www.youtube.com/c/ukparliament/featured .
