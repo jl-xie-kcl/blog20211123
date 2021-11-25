@@ -35,7 +35,7 @@ The records accessed from each House are in chronological order, the latest reco
 
 ![chronological](https://jl-xie-kcl.github.io/blog20211123/illustrations/Hansard/chronological.png)
 
-However, sometimes search from chronological order is not the best solution. Above the links of Houses, there is a search column for more specific 
+However, sometimes search from chronological order is not the best solution. Above the links of Houses, there is a search column for more specific research. Researchers can 
 
 By searching a certain word in the search column, researchers can see how many times a word is mentioned in a certain year.
 
